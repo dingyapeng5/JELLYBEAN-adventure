@@ -1,0 +1,8 @@
+{
+    "title": "Gaming",
+    "identifier": "com.yourcompany.wizardEVP.Gaming",
+    "orientation": "landscape",
+    "versioncode": 1,
+    "versionname": "1.0.0",
+    "stage": "test"
+}
